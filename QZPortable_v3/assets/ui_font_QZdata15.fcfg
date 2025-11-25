@@ -1,0 +1,16 @@
+{
+  "codename": "QZdata15",
+  "ttf_path": "/assets/MADE TOMMY Thin.otf",
+  "bin_path": "/assets\\ui_font_QZdata15.bin",
+  "c_path": "/assets\\ui_font_QZdata15.c",
+  "cfg_path": "/assets\\ui_font_QZdata15.fcfg",
+  "size": 15,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

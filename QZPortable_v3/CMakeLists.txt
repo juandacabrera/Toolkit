@@ -1,0 +1,12 @@
+SET(SOURCES screens/ui_ScreenInterface.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    ui_events.c
+    images/ui_img_quasizero_png.c
+    images/ui_img_clock_white20x20_png.c
+    images/ui_img_anticlockwise_white20x20_png.c
+    fonts/ui_font_QZdata100.c
+    fonts/ui_font_QZdata15.c)
+
+add_library(ui ${SOURCES})
